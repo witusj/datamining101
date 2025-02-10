@@ -1,1 +1,2 @@
-# datamining101
+# Data Mining Course with Witek
+
